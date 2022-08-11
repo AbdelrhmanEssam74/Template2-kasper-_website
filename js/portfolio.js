@@ -175,3 +175,4 @@ other.addEventListener("click", () => {
   otherImg9.classList.remove("heddenImg");
   otherImg10.classList.remove("heddenImg");
 });
+
