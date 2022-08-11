@@ -1,7 +1,7 @@
 
 
 ///////////////////////
-if (document.body.clientWidth >= 800) {
+if (document.body.clientWidth >= 1000) {
   window.onscroll = () => {
     let portfolio = document.querySelector(".imgs-container");
     const rect2 = portfolio.getBoundingClientRect();
@@ -20,3 +20,4 @@ if (document.body.clientWidth >= 800) {
     }
   };
 }
+
