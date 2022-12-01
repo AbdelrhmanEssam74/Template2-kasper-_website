@@ -1,3 +1,3 @@
 # Project4
-this template called kasper 
-from graphBeary website 
+# this template called kasper (free)
+# from graphBeary website
